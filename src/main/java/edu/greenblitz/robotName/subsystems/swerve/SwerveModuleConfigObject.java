@@ -23,7 +23,7 @@ public class SwerveModuleConfigObject {
                 angleMotorID,
                 linearMotorID,
                 AbsoluteEncoderID,
-                Rotation2d.fromRadians(0)),
+                Rotation2d.fromRadians(0),
                 linInverted
         );
     }
